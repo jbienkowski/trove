@@ -5,8 +5,11 @@
 # Virtual environment
 env/
 
-# Database
-db.sqlite3
+# Environment file
+.env
+
+# Databases
+*.sqlite3
 
 *.egg-info
 *.pot
